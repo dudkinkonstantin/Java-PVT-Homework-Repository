@@ -6,7 +6,7 @@ You must add new project by next path: 213
 ```
 <THEME_NUMBER>.<THEME_NAME>/<AUTHOR>/<YOU_PROJECT>
 ```
-
+323г33
 ``<AUTHOR>`` must be in format: first character of you name and surname. For ``Ivan Ivanov`` author will be ``IIVANOV``.
 
 ## How to create make pull request with your project
