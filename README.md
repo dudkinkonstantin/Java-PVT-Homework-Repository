@@ -1,6 +1,5 @@
 # Java-PVT-Homework-Repository
-Repository for homeworks from Java PVT.
-
+Repository for homeworks 
 ## Project structure
 
 You must add new project by next path:
