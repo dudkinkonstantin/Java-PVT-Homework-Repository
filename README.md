@@ -2,7 +2,7 @@
 Repository for homeworks 
 ## Project structure
 
-You must add new project by next path:
+You must add new project by next path: 213
 ```
 <THEME_NUMBER>.<THEME_NAME>/<AUTHOR>/<YOU_PROJECT>
 ```
